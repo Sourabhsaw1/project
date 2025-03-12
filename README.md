@@ -86,7 +86,7 @@ Machine Learning model integration for quick predictions.
 
 Contact
 
-For suggestions and improvements, feel free to reach out at [your-email@example.com] or open an issue.
+For suggestions and improvements, feel free to reach out at [sourabhsw2005@gmail.com] or open an issue.
 
 
 ---
